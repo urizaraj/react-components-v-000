@@ -18,7 +18,7 @@ Let's examine a high level overview of what a React component is before we imple
 
 Components modularize both _functionality_ and _presentation_ in our code. In order to understand how powerful this is, consider just how complicated user interfaces of web applications can become. The difficulty in logically arranging, architecting, and programming these web applications increases with their size. Components are like little packages: they help us keep everything organized and predictable while abstracting the ['boiler plate'][boiler-plate] code.
 
-Enough of a description -- let's see some examples! While they are much more than this, the first thing we need to understand about components is the ways in which they act as templates. Let's start simply and build up from there:
+Enough of a description - let's see some examples! While they are much more than this, the first thing we need to understand about components is the ways in which they act as templates. Let's start simply and build up from there:
 
 ---
 ### Step 1 -- make a component
